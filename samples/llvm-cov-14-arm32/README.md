@@ -1,7 +1,5 @@
 # llvm-cov 14 on Enumlated ARM 32-bit Bare Metal Platform
 
-[[TOC]]
-
 Initial prototype to run C code instrumented with llvm-cov version 14.0.0 on an enumlated ARM 32-bit bare metal platform.
 
 ## Setup
@@ -39,7 +37,7 @@ Initial prototype to run C code instrumented with llvm-cov version 14.0.0 on an 
     ```
 3. Exit QEMU with `CTRL+A X`.
 
-### Sample output:
+### Sample Output
 
 ```
 [llvm_gcov_init]
